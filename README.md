@@ -23,7 +23,10 @@ npm start # Runs the app in the development mode
 npm run build # Builds for production to the `build` folder
 
 ```
-
+## Built With
+- [Create React App](https://github.com/facebook/create-react-app)
+- [Bootstrap](https://getbootstrap.com/)
+- [Font Awesome](https://fontawesome.com/)
 ## Demo:
 
 - Online demo: Can be found at [laradminator.bel4.com/admin](http://laradminator.bel4.com/admin)
