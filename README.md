@@ -15,6 +15,7 @@ cd todolist
 npm install # Install dependencies
 
 npm start # Runs the app in the development mode
+npm run build # Builds for production to the `build` folder
 
 ```
 
