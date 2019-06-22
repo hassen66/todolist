@@ -1,6 +1,6 @@
 # TodoList
 
-** TodoList using react
+TodoList using react
 
 ## Setup:
 
