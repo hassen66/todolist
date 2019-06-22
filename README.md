@@ -6,7 +6,7 @@ TodoList using react
 * Node >= 6
 * npm >= 5.2
 
-## Setup:
+## Setup
 
 All you need is to run these commands:
 
